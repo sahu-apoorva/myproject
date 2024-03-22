@@ -1,0 +1,3 @@
+[submodule "sdemo"]
+	path = sdemo
+	url = https://github.com/sahu-apoorva/sdemo.git
